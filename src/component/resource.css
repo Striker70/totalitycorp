@@ -1,0 +1,14 @@
+.container {
+  background: #ffffff;
+  border-radius: 8px;
+}
+h2 {
+  font-family: "Quarto";
+  font-style: normal;
+  color: #263f9b;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+}

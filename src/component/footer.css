@@ -1,0 +1,34 @@
+.ser {
+  font-family: "Eina01-Regular";
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #004adf;
+}
+.widget-light {
+  background: linear-gradient(
+    180deg,
+    #458dea 0%,
+    rgba(69, 141, 234, 0.53) 42.82%,
+    rgba(69, 141, 234, 0) 100%
+  );
+}
+.main {
+  background-color: blue;
+}
+
+.widget-light-skin {
+  background: linear-gradient(
+    0.13deg,
+    rgb(151, 172, 212) -51.4%,
+    rgba(241, 246, 255, 0) 99.89%
+  );
+}
+
+.up {
+  font-family: "Eina02-Regular";
+  font-size: 15px;
+  line-height: 18px;
+  color: black;
+}
